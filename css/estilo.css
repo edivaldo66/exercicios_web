@@ -1,0 +1,19 @@
+table td, th {
+
+	border: 1px solid;
+
+}
+
+#wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div1 {
+	font-weight: bolder;
+}
+
+.div2{
+	font-style: oblique;
+}
